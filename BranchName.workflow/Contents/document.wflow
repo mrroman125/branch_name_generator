@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AMApplicationBuild</key>
+	<string>428</string>
+	<key>AMApplicationVersion</key>
+	<string>2.7</string>
+	<key>AMDocumentVersion</key>
+	<string>2</string>
+	<key>actions</key>
+	<array>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMActionVersion</key>
+				<string>1.2.1</string>
+				<key>AMApplication</key>
+				<array>
+					<string>TextEdit</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict>
+					<key>enteredRTFDData</key>
+					<dict/>
+					<key>enteredRTFDText</key>
+					<dict/>
+					<key>enteredText</key>
+					<dict/>
+				</dict>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>Single</string>
+					<key>Types</key>
+					<array>
+						<string>com.apple.cocoa.attributed-string</string>
+					</array>
+				</dict>
+				<key>AMRequiredResources</key>
+				<array/>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Get Specified Text.action</string>
+				<key>ActionName</key>
+				<string>Get Specified Text</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>enteredRTFDData</key>
+					<data>
+					cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRm
+					AQAAAC7iBQAAKwAAAAEAAADaBQAAe1xydGYx
+					XGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYx
+					NTA0CntcZm9udHRibFxmMFxmc3dpc3NcZmNo
+					YXJzZXQwIEFyaWFsTVQ7fQp7XGNvbG9ydGJs
+					O1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtc
+					cmVkNDZcZ3JlZW45NFxibHVlMTU5O1xyZWQy
+					NTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMzhc
+					Z3JlZW4zOFxibHVlMzg7ClxyZWQyNTVcZ3Jl
+					ZW4yNTVcYmx1ZTI1NTtccmVkMzFcZ3JlZW4z
+					MVxibHVlMzE7fQp7XCpcZXhwYW5kZWRjb2xv
+					cnRibDtcY3NncmF5XGMxMDAwMDA7XGNzc3Jn
+					YlxjMjMxMzdcYzQ1MDk4XGM2ODYyNztcY3Nz
+					cmdiXGMxMDAwMDBcYzEwMDAwMFxjMTAwMDAw
+					O1xjc3NyZ2JcYzIwMDAwXGMyMDAwMFxjMjAw
+					MDA7Clxjc2dyYXlcYzEwMDAwMDtcY3Nzcmdi
+					XGMxNjA3OFxjMTYwNzhcYzE2MDc4O30Ke1wq
+					XGxpc3R0YWJsZXtcbGlzdFxsaXN0dGVtcGxh
+					dGVpZDFcbGlzdGh5YnJpZHtcbGlzdGxldmVs
+					XGxldmVsbmZjMjNcbGV2ZWxuZmNuMjNcbGV2
+					ZWxqYzBcbGV2ZWxqY24wXGxldmVsZm9sbG93
+					MFxsZXZlbHN0YXJ0YXQxXGxldmVsc3BhY2Uz
+					NjBcbGV2ZWxpbmRlbnQwe1wqXGxldmVsbWFy
+					a2VyIFx7bm9uZVx9fXtcbGV2ZWx0ZXh0XGxl
+					dmVsdGVtcGxhdGVpZDFcJzAwO317XGxldmVs
+					bnVtYmVyczt9XGZpLTM2MFxsaTcyMFxsaW43
+					MjAgfXtcbGlzdG5hbWUgO31cbGlzdGlkMX19
+					CntcKlxsaXN0b3ZlcnJpZGV0YWJsZXtcbGlz
+					dG92ZXJyaWRlXGxpc3RpZDFcbGlzdG92ZXJy
+					aWRlY291bnQwXGxzMX19ClxkZWZ0YWI3MjAK
+					ClxpdGFwMVx0cm93ZCBcdGFmbGFnczAgXHRy
+					Z2FwaDEwOFx0cmxlZnQtMTA4IFx0cmJyZHJ0
+					XGJyZHJuaWwgXHRyYnJkcmxcYnJkcm5pbCBc
+					dHJicmRydFxicmRybmlsIFx0cmJyZHJyXGJy
+					ZHJuaWwgClxjbHZlcnRhbGMgXGNsc2hkcmF3
+					bmlsIFxjbHdXaWR0aDE0NjAwXGNsZnRzV2lk
+					dGgzIFxjbG1hcnQxMCBcY2xtYXJsMTAgXGNs
+					bWFyYjEwIFxjbG1hcnIxMCBcY2xicmRydFxi
+					cmRybmlsIFxjbGJyZHJsXGJyZHJuaWwgXGNs
+					YnJkcmJcYnJkcm5pbCBcY2xicmRyclxicmRy
+					bmlsIFxjbHBhZGwyMDAgXGNscGFkcjAgXGdh
+					cGhcY2VsbHg4NjQwClxwYXJkXGludGJsXGl0
+					YXAxXHR4MjIwXHR4NzIwXHBhcmRlZnRhYjcy
+					MFxsaTcyMFxmaS03MjBccGFydGlnaHRlbmZh
+					Y3RvcjAKXGxzMVxpbHZsMApcZjBcZnMyOCBc
+					Y2YyIFxjYjMgCQl7XGZpZWxke1wqXGZsZGlu
+					c3R7SFlQRVJMSU5LICJodHRwczovL2ppcmEu
+					dXBjLmJpei9icm93c2UvQ0FQREVWLTM0Nzki
+					fX17XGZsZHJzbHQgXGV4cG5kMFxleHBuZHR3
+					MFxrZXJuaW5nMApDQVBERVYtMzQ3OX19XGNm
+					NCBcY2I1IFxleHBuZDBcZXhwbmR0dzBca2Vy
+					bmluZzAKXApccGFyZFxpbnRibFxpdGFwMVxw
+					YXJkZWZ0YWI3MjBccGFydGlnaHRlbmZhY3Rv
+					cjAKClxmczQ4IFxjZjYgXGNiMyBMb2FkaW5n
+					IGluZGljYXRvciBzaG91bGQgYmUgZGlzcGxh
+					eWVkIG92ZXIgQUVNIHNjcmVlbiAtIG5vdCBv
+					biBlbXB0eSBzY3JlZW5cY2VsbCBcbGFzdHJv
+					d1xyb3cKfQEAAAAjAAAAAQAAAAcAAABUWFQu
+					cnRmEAAAAPIG5Vi2AQAAAAAAAAAAAAA=
+					</data>
+					<key>enteredRTFDText</key>
+					<string></string>
+					<key>enteredText</key>
+					<string>		CAPDEV-3479
+Loading indicator should be displayed over AEM screen - not on empty screen
+</string>
+				</dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.GetSpecifiedText</string>
+				<key>CFBundleVersion</key>
+				<string>1.2.1</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<false/>
+				<key>CanShowWhenRun</key>
+				<true/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryText</string>
+				</array>
+				<key>Class Name</key>
+				<string>AMGetSpecifiedTextAction</string>
+				<key>Disabled</key>
+				<true/>
+				<key>IgnoresInput</key>
+				<false/>
+				<key>Keywords</key>
+				<array>
+					<string>Get</string>
+					<string>Text</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>DB116BBE-81D6-4428-9E70-B1042417958C</string>
+				<key>UUID</key>
+				<string>E5C5FF2B-D34C-4D8C-9713-60B82224FB5C</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>TextEdit</string>
+				</array>
+				<key>arguments</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>default value</key>
+						<string></string>
+						<key>name</key>
+						<string>enteredRTFDText</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>0</string>
+					</dict>
+					<key>1</key>
+					<dict>
+						<key>default value</key>
+						<string></string>
+						<key>name</key>
+						<string>enteredText</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>1</string>
+					</dict>
+				</dict>
+				<key>isViewVisible</key>
+				<false/>
+				<key>location</key>
+				<string>303.500000:112.000000</string>
+				<key>nibPath</key>
+				<string>/System/Library/Automator/Get Specified Text.action/Contents/Resources/Base.lproj/main.nib</string>
+			</dict>
+			<key>isViewVisible</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<true/>
+					<key>Types</key>
+					<array>
+						<string>com.apple.applescript.object</string>
+					</array>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>1.0</string>
+				<key>AMApplication</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict>
+					<key>source</key>
+					<dict/>
+				</dict>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array>
+						<string>com.apple.applescript.object</string>
+					</array>
+				</dict>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Run JavaScript.action</string>
+				<key>ActionName</key>
+				<string>Run JavaScript</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>source</key>
+					<string>function run(input, parameters) {	var str = "" + input	// Your script goes here	str = str.replace(/\n+/g," ")	//[A-Z,a-z,'-',0-9]	str = str.replace(/[^(A-Z,a-z,0-9,\-)]+/g,"_")	str = str.replace(/^_+/g,"")	str = str.replace(/_+$/g,"")	var maxLength = 52	if (str.length &gt; maxLength) {		var i = maxLength		while(str.charAt(i) != '_') {			i--		}		str = str.substring(0, i)	}	str = str.replace(/[^(A-Z,a-z)]+$/g,"")	return str}</string>
+				</dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Automator.RunJavaScript</string>
+				<key>CFBundleVersion</key>
+				<string>1.0</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<false/>
+				<key>CanShowWhenRun</key>
+				<true/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryUtilities</string>
+				</array>
+				<key>Class Name</key>
+				<string>RunJavaScriptAction</string>
+				<key>InputUUID</key>
+				<string>21AD5E54-24D1-4881-BBF7-2F0EA622BC66</string>
+				<key>Keywords</key>
+				<array>
+					<string>Run</string>
+					<string>JavaScript</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>83DCE801-0B31-468A-AA42-663AAACBB788</string>
+				<key>ShowWhenRun</key>
+				<false/>
+				<key>UUID</key>
+				<string>5942FD8D-89E8-428D-AEDB-9B9AA937EA20</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>arguments</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>default value</key>
+						<string>function run(input, parameters) {
+	
+	// Your script goes here
+
+	return input;
+}</string>
+						<key>name</key>
+						<string>source</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>0</string>
+					</dict>
+				</dict>
+				<key>isViewVisible</key>
+				<true/>
+				<key>location</key>
+				<string>303.500000:358.000000</string>
+				<key>nibPath</key>
+				<string>/System/Library/Automator/Run JavaScript.action/Contents/Resources/Base.lproj/main.nib</string>
+			</dict>
+			<key>isViewVisible</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<false/>
+					<key>Types</key>
+					<array>
+						<string>com.apple.cocoa.attributed-string</string>
+					</array>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>1.2.1</string>
+				<key>AMApplication</key>
+				<array>
+					<string>System</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict/>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<false/>
+					<key>Types</key>
+					<array>
+						<string>com.apple.cocoa.attributed-string</string>
+					</array>
+				</dict>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Copy to Clipboard.action</string>
+				<key>ActionName</key>
+				<string>Copy to Clipboard</string>
+				<key>ActionParameters</key>
+				<dict/>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Automator.CopyToClipboard</string>
+				<key>CFBundleVersion</key>
+				<string>1.2.1</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<true/>
+				<key>CanShowWhenRun</key>
+				<false/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryUtilities</string>
+				</array>
+				<key>Class Name</key>
+				<string>AMCopyToClipboardAction</string>
+				<key>InputUUID</key>
+				<string>E7860400-572C-4618-81B7-E78FC0CF5636</string>
+				<key>Keywords</key>
+				<array>
+					<string>Copy</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>3539648B-95C8-47F9-8DD2-E1EFA2B3A782</string>
+				<key>UUID</key>
+				<string>5B213D01-9113-4B29-8634-328CECE6E6AA</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>System</string>
+				</array>
+				<key>arguments</key>
+				<dict/>
+			</dict>
+		</dict>
+	</array>
+	<key>connectors</key>
+	<dict>
+		<key>AB701D0A-BBD0-45E4-A182-4667F9B126A7</key>
+		<dict>
+			<key>from</key>
+			<string>5942FD8D-89E8-428D-AEDB-9B9AA937EA20 - 5942FD8D-89E8-428D-AEDB-9B9AA937EA20</string>
+			<key>to</key>
+			<string>5B213D01-9113-4B29-8634-328CECE6E6AA - 5B213D01-9113-4B29-8634-328CECE6E6AA</string>
+		</dict>
+		<key>F8E8255D-C1A5-4EA1-B9A8-3982B86DFDB3</key>
+		<dict>
+			<key>from</key>
+			<string>E5C5FF2B-D34C-4D8C-9713-60B82224FB5C - E5C5FF2B-D34C-4D8C-9713-60B82224FB5C</string>
+			<key>to</key>
+			<string>5942FD8D-89E8-428D-AEDB-9B9AA937EA20 - 5942FD8D-89E8-428D-AEDB-9B9AA937EA20</string>
+		</dict>
+	</dict>
+	<key>workflowMetaData</key>
+	<dict>
+		<key>serviceInputTypeIdentifier</key>
+		<string>com.apple.Automator.text</string>
+		<key>serviceOutputTypeIdentifier</key>
+		<string>com.apple.Automator.nothing</string>
+		<key>serviceProcessesInput</key>
+		<integer>0</integer>
+		<key>workflowTypeIdentifier</key>
+		<string>com.apple.Automator.servicesMenu</string>
+	</dict>
+</dict>
+</plist>
